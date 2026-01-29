@@ -6,12 +6,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![bilibili](https://img.shields.io/badge/Bilibili-囧囧-yello)](https://space.bilibili.com/6398109?spm_id_from=333.1007.0.0)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![bilibili](https://img.shields.io/badge/Bilibili-囧囧-yellow)](https://space.bilibili.com/6398109?spm_id_from=333.1007.0.0)
+[![最喜欢](https://img.shields.io/badge/单腿-第七魔女咪露-red)](https://space.bilibili.com/7403588?spm_id_from=333.1387.follow.user_card.click)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
+[![modern cpp](https://img.shields.io/badge/code-C#%20C++%20Python-blue)](https://github.com/Patchouli0227) 
+![](https://img.shields.io/badge/单推-咪露-red) 
+![](https://img.shields.io/badge/性格-有点I-yellow) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
@@ -20,4 +20,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Patchouli0227.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Patchouli0227
