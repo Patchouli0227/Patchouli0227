@@ -12,7 +12,7 @@
 [![modern](https://img.shields.io/badge/code-C#-blue)](https://github.com/Patchouli0227) 
 ![](https://img.shields.io/badge/单推-咪露-red) 
 ![](https://img.shields.io/badge/性格-有点I-yellow) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/爱好-二次元-blue)
 
 </div>
 
